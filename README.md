@@ -3,4 +3,5 @@ The "MovieList.R" script searches the Open Movie Database (an API implementation
 To function properly, the following requirements must be met:
 
 (1) set your R working directory to the folder where you save your movies
+
 (2) manually name your movie files as exactly as possible to increase the precision of the results
